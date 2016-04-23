@@ -2,12 +2,13 @@ name: Techfriendly Solutions
 favicon: null
 layout_spectrum: 0.8787139269988984
 typography_spectrum: 0.21233855793252587
+title: 'Technology Consultant   https://thegrid.ai//techfriendly-solutions'
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-70267004-2
   facebook: null
   twitter: null
 opengraph:
