@@ -1,0 +1,28 @@
+name: Techfriendly Solutions
+favicon: null
+layout_spectrum: 0.8787139269988984
+typography_spectrum: 0.21233855793252587
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.48043701564893126
+  lightness: 0.08463233103975654
+  saturation: 0.9253335732501
+  rhythmicContrast: 0.6057412785012275
+purpose: []
